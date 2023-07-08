@@ -1,5 +1,15 @@
-.list{
-    background-color: aqua;
-    margin: 0px;
-    padding: 0px;
+nav >ul > li{
+    display: inline;
+    text-underline-offset: none;
+    margin-right: 10px;
+    font-size: 20px;
+}
+nav li>a{
+    text-decoration: none;
+
+}
+footer{
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
 }
